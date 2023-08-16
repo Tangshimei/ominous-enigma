@@ -1,0 +1,435 @@
+ vscs:web-client:9314 init 👋
+ vscs:web-client:9314:workbench-telemetry:telemetry-service initialize {
+  "browserId": "a4dbac5bc5157e1eec40de9a23bda2f6",
+  "sessionId": "7916f461-faf3-478f-b3da-4f5407b5bd18",
+  "pageLoadId": "20af0bcc02815090883b8be2159103e4",
+  "host": "ppe.github.dev",
+  "browserName": "chrome",
+  "browserVersion": "114.0.0",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "660393deaaa6d1996740ff4880f1bad43768c814",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02384.509-4425dffd",
+  "stableVSCodeCommitId": "660393deaaa6d1996740ff4880f1bad43768c814",
+  "insiderVSCodeCommitId": "d568855b2a4ef75716cdaa9a52da5315f5100a5d",
+  "serviceLocation": "SoutheastAsia",
+  "serviceInstance": "ppe-rel-SoutheastAsia",
+  "environment": "Staging",
+  "serverCorrelationId": "e533c5f3-8d09-4e18-82e6-918945369a39",
+  "cookiesEnabled": true,
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+}
+ Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+e._parseColor @ commons-app-xterm.js…05809b3e8d161a.js:1
+ Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+e._parseColor @ commons-app-xterm.js…05809b3e8d161a.js:1
+ Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+t._drawToCache @ commons-app-xterm.js…05809b3e8d161a.js:1
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint requested to connect once Object Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint requested to connect Object Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:AB1E746ACDDF88725FA88370F1FBF29523F1 connection record: false
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:AB1E746ACDDF88725FA88370F1FBF29523F1 creating new connection
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint creating connection Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare asked to connect
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare creating new connection
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare creating connection
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare firing change event:  Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:AB1E746ACDDF88725FA88370F1FBF29523F1 none -> connecting
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare requested to connect once Object Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare requested to connect Object Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:AB1E746ACDDF88725FA88370F1FBF29523F1 connection record: false
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:AB1E746ACDDF88725FA88370F1FBF29523F1 creating new connection
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare creating connection Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare asked to connect
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare creating new connection
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare creating connection
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare firing change event:  Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:onConnectionChanged:AB1E746ACDDF88725FA88370F1FBF29523F1 none -> connecting
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare creating workspace client Object
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient f connecting...
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient Local version: SSH-2.0-dev-tunnels-ssh_3.11.10, remote version: SSH-2.0-Microsoft.VisualStudio.Ssh_3.4
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient KeyExchange negotiation: Server (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group16-sha512, diffie-hellman-group14-sha256, ext-info-s) Client (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group14-sha256) => ecdh-sha2-nistp384
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient PublicKey negotiation: Server (rsa-sha2-512, rsa-sha2-256) Client (rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp384, ecdsa-sha2-nistp256) => rsa-sha2-512
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient ClientEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient ServerEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient ClientHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient ServerHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient ClientCompression negotiation: Server (none) Client (none) => none
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient ServerCompression negotiation: Server (none) Client (none) => none
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient f encrypted.
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient f Authenticating([ssh-rsa])
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient f server authenticated.
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient join started
+ vscs:web-client:9314:codespace-state-watcher codespace state -> Available
+ vscs:web-client:9314:codespaces-component onCodespaceStateChange:  Array(3)
+ vscs:web-client:9314:codespaces-component:workbench-page initialize service worker Live Share connection
+  INFO Resolving connection token (codespaces)...
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:14905)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:15025)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:14905)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:15025)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:14905)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:15025)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:14905)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:206044)
+    at I.rewrite (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:2967)
+    at v.uriToBrowserUri (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:3615)
+    at Object.tt [as $uO] (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:128:36001)
+    at e.$6bb.g (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1599:15025)
+ Refused to load the image 'vscode-remote://codespaces+tangshimei-verbose-carnival-p6v5559wvrpf6wqv/vscode/bin/linux-x64/660393deaaa6d1996740ff4880f1bad43768c814/extensions/markdown-language-features/media/preview-light.svg' because it violates the following Content Security Policy directive: "img-src 'self'
+            https:
+            data:
+            blob:
+            vscode-remote-resource:
+            https://ppe.github.dev/
+        https://assets.ppe.github.dev/".
+
+getWidth @ workbench.web.main.js:224
+ Refused to load the image 'vscode-remote://codespaces+tangshimei-verbose-carnival-p6v5559wvrpf6wqv/home/codespace/.vscode-remote/extensions/eamodio.gitlens-14.0.1/images/gitlens-icon.png' because it violates the following Content Security Policy directive: "img-src 'self'
+            https:
+            data:
+            blob:
+            vscode-remote-resource:
+            https://ppe.github.dev/
+        https://assets.ppe.github.dev/".
+
+getWidth @ workbench.web.main.js:224
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient f client authenticated.
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.15.0","platformVersion":"5.15.0.1041"}
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient joinWorkspace -> session:6 conversation:87ad4f96-d05c-4b3f-89df-d6dc509a2a24 join messages count:2
+ vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient join completed
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient:1 Start checking connection timeout:5000
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237"
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare LS session joined and authenticated
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient Creating proxy for workspace service
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare connection status changed: connecting -> connected, error: undefined
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare firing change event:  Object
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:onConnectionChanged:AB1E746ACDDF88725FA88370F1FBF29523F1 connecting -> connected
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare 🔌 connected
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare connection status changed: connecting -> connected, error: undefined
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare firing change event:  Object
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:AB1E746ACDDF88725FA88370F1FBF29523F1 connecting -> connected
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare-joint:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare-joint:liveshare 🔌 connected
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:connection-hub:liveshare:connection:AB1E746ACDDF88725FA88370F1FBF29523F1:liveshare:WorkspaceClient Creating proxy for sourceEvent service
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespace-state-watcher codespace state -> Available
+workbench.web.main.js:sourcemap:624  INFO Updating additional builtin extensions cache
+workbench.web.main.js:sourcemap:1373 The customer named _initialize has been holding on to the lock for 30s. This might be a problem.
+(anonymous) @ workbench.web.main.js:sourcemap:1373
+app.3b85155e8c0c33e8f384.js:1 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespace-state-watcher codespace state -> Available
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:workbench-telemetry:telemetry-service ["codespaces/web/initial-connection/action_stop",{"errorCode":-1,"errorType":"ServiceWorkerTimeoutError","errorMessage":"Service worker configuration timed out","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: Service worker configuration timed out\n    at [PATH]/app.3b85155e8c0c33e8f384.js:1:306028","startTime":4476.79999999702,"duration":60006.29999999702,"connectionId":"c1fe2dcd5c","codespaceState":"Available"}]
+writeEvent @ 327.94d38c525cb7715fdd3d.js:1
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:workbench-telemetry:telemetry-service ["codespaces/web/load/action_stop",{"errorCode":-1,"errorType":"ServiceWorkerTimeoutError","errorMessage":"Service worker configuration timed out","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: Service worker configuration timed out\n    at [PATH]/app.3b85155e8c0c33e8f384.js:1:306028","action":"Load","result":"Failure"}]
+writeEvent @ 327.94d38c525cb7715fdd3d.js:1
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:workbench-telemetry:telemetry-service ["codespaces/web/error",{"errorCode":-1,"errorType":"ServiceWorkerTimeoutError","errorMessage":"Service worker configuration timed out","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: Service worker configuration timed out\n    at [PATH]/app.3b85155e8c0c33e8f384.js:1:306028"}]
+writeEvent @ 327.94d38c525cb7715fdd3d.js:1
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscode-workbench:providers:dev-tunnel-provider Tunnel client connection changed from none to disconnected
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscode-workbench:providers:dev-tunnel-provider Disconnect error undefined
+writeEvent @ 327.94d38c525cb7715fdd3d.js:1
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscode-workbench:providers:dev-tunnel-provider Retrying connection...
+writeEvent @ 327.94d38c525cb7715fdd3d.js:1
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscs:web-client:9314:codespaces-component:workbench-page:workbench:vscode-workbench:providers:dev-tunnel-provider Tunnel client is unconnected, fetching tunnel and connecting Object
+workbench.web.main.js:sourcemap:624  INFO [lifecycle] shutdown triggered
+183.dd40e9a88505a8f1d339.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ 183.dd40e9a88505a8f1d339.js:1
+327.94d38c525cb7715fdd3d.js:1 vscs:web-client:9314:codespaces-component:workbench-page initialize service worker Live Share connection
+workbench.web.main.js:sourcemap:624   ERR Error received from starting extension host (kind: Remote)
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR [remote-connection][attempt 1] An error occurred in initial connection! Will retry... Error:
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:19 Error: Trying to add a disposable to a DisposableStore that has already been disposed of. The added object will be leaked!
+    at h.add (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:28909)
+    at Hr.B (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:29283)
+    at assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1552:22512
+add @ workbench.web.main.js:sourcemap:19
+workbench.web.main.js:sourcemap:624   ERR [remote-connection][attempt 2] An error occurred in initial connection! Will retry... Error:
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR [remote-connection][attempt 3] An error occurred in initial connection! Will retry... Error:
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR [remote-connection][attempt 4] An error occurred in initial connection! Will retry... Error:
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR [remote-connection][attempt 5]  An error occurred in initial connection! It will be treated as a permanent error. Error:
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Cannot register remote filesystem provider. Error while fetching remote environment. Service worker configuration timed out
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624  WARN Ignoring the error while validating workspace folder vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook - ENOPRO: No file system provider found for resource 'vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook'
+workbench.web.main.js:sourcemap:624   ERR CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook'
+    at e.$op.j (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:624:11019)
+    at async e.$op.W (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:624:21625)
+    at async https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:624:21520
+workbench.web.main.js:sourcemap:624   ERR Error received from starting extension host (kind: Remote)
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624  WARN [backup tracker] suspended, ignoring unregister event vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook/codespaces-1.14.11.vsix 
+workbench.web.main.js:sourcemap:624   ERR CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook/codespaces-1.14.11.vsix'
+    at e.$op.j (workbench.web.main.js:sourcemap:624:11019)
+    at async e.$op.k (workbench.web.main.js:sourcemap:624:11110)
+    at async e.$op.readFileStream (workbench.web.main.js:sourcemap:624:15405)
+    at async e.$aZb.H (workbench.web.main.js:sourcemap:2326:36709)
+    at async e.$aZb.readStream (workbench.web.main.js:sourcemap:2326:36466)
+    at async _s.zb (workbench.web.main.js:sourcemap:2315:28978)
+    at async _s.resolve (workbench.web.main.js:sourcemap:2315:27425)
+    at async e.$0Yb.P (workbench.web.main.js:sourcemap:2326:33070)
+    at async xc.cb (workbench.web.main.js:sourcemap:1885:8938)
+    at async Ch.setInput (workbench.web.main.js:sourcemap:2308:18251)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:19 Error: Trying to add a disposable to a DisposableStore that has already been disposed of. The added object will be leaked!
+    at h.add (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:28909)
+    at A.B (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:29283)
+    at assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:2516:17785
+add @ workbench.web.main.js:sourcemap:19
+workbench.web.main.js:sourcemap:19 Error: Trying to add a disposable to a DisposableStore that has already been disposed of. The added object will be leaked!
+    at h.add (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:28909)
+    at A.B (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:29283)
+    at assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:2516:17830
+add @ workbench.web.main.js:sourcemap:19
+workbench.web.main.js:sourcemap:19 Error: Trying to add a disposable to a DisposableStore that has already been disposed of. The added object will be leaked!
+    at h.add (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:28909)
+    at A.B (assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:19:29283)
+    at assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:2516:17868
+add @ workbench.web.main.js:sourcemap:19
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:624   ERR Error: IndexedDB database 'vscode-web-db' is closed.
+    at v.runInTransaction (workbench.web.main.js:sourcemap:127:2397)
+    at c.readFile (workbench.web.main.js:sourcemap:618:31173)
+    at workbench.web.main.js:sourcemap:624:16513
+    at e.$op.D (workbench.web.main.js:sourcemap:624:16707)
+    at e.$op.v (workbench.web.main.js:sourcemap:624:15695)
+    at e.$op.u (workbench.web.main.js:sourcemap:624:15290)
+    at e.$op.readFile (workbench.web.main.js:sourcemap:624:15081)
+    at async Object.factory (workbench.web.main.js:sourcemap:2620:107900)
+workbench.web.main.js:sourcemap:1864 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624   ERR Service worker configuration timed out: Error: Service worker configuration timed out
+    at https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:1371 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:758 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:2528 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:2528 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:2528 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624 Uncaught (in promise) CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook'
+    at e.$op.j (workbench.web.main.js:sourcemap:624:11019)
+    at async e.$op.n (workbench.web.main.js:sourcemap:624:11808)
+    at async e.$op.resolve (workbench.web.main.js:sourcemap:624:11636)
+    at async e.$IXb.i (workbench.web.main.js:sourcemap:1958:5269)
+workbench.web.main.js:sourcemap:624 Uncaught (in promise) CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-remote://codespaces%2Btangshimei-verbose-carnival-p6v5559wvrpf6wqv/workspaces/publicguestbook/.vscode'
+    at e.$op.j (workbench.web.main.js:sourcemap:624:11019)
+    at async e.$op.exists (workbench.web.main.js:sourcemap:624:13225)
+    at async workbench.web.main.js:sourcemap:2011:6258
+    at async Promise.all (/index 0)
+    at async e.$ijb.v (workbench.web.main.js:sourcemap:2011:6365)
+workbench.web.main.js:sourcemap:2528 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624  INFO Settings Sync: Updated current session github-session-sync-service
+workbench.web.main.js:sourcemap:624 Uncaught (in promise) Error: Unable to write file 'vscode-log:/20230713T152242/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.)
+    at e.$op.writeFile (workbench.web.main.js:sourcemap:624:14224)
+    at async w.flush (workbench.web.main.js:sourcemap:624:29590)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:69 Uncaught (in promise) DOMException: Failed to execute 'postMessage' on 'BroadcastChannel': Channel is closed
+    at N.postData (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:69:5764)
+    at r.updateItems (https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/workbench/workbench.web.main.js:1864:24239)
+workbench.web.main.js:sourcemap:624   ERR Service worker configuration timed out: Error: Service worker configuration timed out
+    at https://assets.ppe.github.dev/static/app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:1860 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:624 Uncaught (in promise) Error: Unable to write file 'vscode-log:/20230713T152242/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.)
+    at e.$op.writeFile (workbench.web.main.js:sourcemap:624:14224)
+    at async w.flush (workbench.web.main.js:sourcemap:624:29590)
+workbench.web.main.js:sourcemap:2528 Uncaught (in promise) Error: Service worker configuration timed out
+    at app.3b85155e8c0c33e8f384.js:1:306028
+workbench.web.main.js:sourcemap:1529 The Web Worker Extension Host did not start in 60s, that might be a problem.
+(anonymous) @ workbench.web.main.js:sourcemap:1529
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/node_modules/vscode-textmate/release/main.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/660393deaaa6d1996740ff4880f1bad43768c814/node_modules/tas-client-umd/lib/tas-client-umd.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/static/primer.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://ticino.blob.core.windows.net/sourcemaps/660393deaaa6d1996740ff4880f1bad43768c814/core/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution.win.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
